@@ -10,7 +10,7 @@ Run this Project to see al features.
 
 For Easy use I have deployed it by github pages.
 
-Below is the Deploy link :
+Below is the Deploy link : https://rohitbhagat9302.github.io/TodosProject/
 
 
 
